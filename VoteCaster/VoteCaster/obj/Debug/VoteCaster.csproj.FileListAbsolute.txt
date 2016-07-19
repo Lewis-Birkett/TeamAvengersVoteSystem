@@ -1,0 +1,9 @@
+C:\Users\LBirkett\Desktop\VoteCaster\VoteCaster\bin\Debug\VoteCaster.exe.config
+C:\Users\LBirkett\Desktop\VoteCaster\VoteCaster\bin\Debug\VoteCaster.exe
+C:\Users\LBirkett\Desktop\VoteCaster\VoteCaster\bin\Debug\VoteCaster.pdb
+C:\Users\LBirkett\Desktop\VoteCaster\VoteCaster\bin\Debug\RabbitMQ.Client.dll
+C:\Users\LBirkett\Desktop\VoteCaster\VoteCaster\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\LBirkett\Desktop\VoteCaster\VoteCaster\bin\Debug\RabbitMQ.Client.xml
+C:\Users\LBirkett\Desktop\VoteCaster\VoteCaster\obj\Debug\VoteCaster.csprojResolveAssemblyReference.cache
+C:\Users\LBirkett\Desktop\VoteCaster\VoteCaster\obj\Debug\VoteCaster.exe
+C:\Users\LBirkett\Desktop\VoteCaster\VoteCaster\obj\Debug\VoteCaster.pdb
