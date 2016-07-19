@@ -10,4 +10,6 @@ class VoteGenerator
     # send message to rabbit
     @rabbit_adapter.send_message('team_avenger_votes', voter_name + ',' + candidate_name)
   end
+	
+
 end
