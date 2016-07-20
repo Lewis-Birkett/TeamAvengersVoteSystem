@@ -19,4 +19,8 @@ class VoteRequester
     end
     return votes.join(":")
   end
+      
+  def resetQueue()
+    @rabbit_adapter.send_message('team_avenger_validated_votes', 'RESET')
+  end
 end
